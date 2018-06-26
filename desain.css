@@ -1,0 +1,114 @@
+body{
+    background-image: url('background.jpg');
+}
+.button{background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.reset{background-color: red;
+    border: none;
+    color: white; 
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.kotakkosong{
+    float: center;
+    width: 95%;
+    background-color: grey; color: black;
+    margin: 0px auto;
+    padding: 20px 25px 25px 20px;
+    border-radius: 10px;
+}
+.kotak{
+	width: 450px;
+	background-color:   gold; color: black;
+	margin: 0px auto;
+	padding: 30px 10px 20px 20px;
+	border-radius: 10px;
+
+}
+
+.kotakkiri{
+    float: left;
+    width: 250px;
+    background-color:   #e7e7e7; color: black;
+    margin: 0px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #000000;
+}
+.kotakkanan{
+    float: right;
+    width: 250px;
+    background-color:   #e7e7e7; color: black;
+    margin: 0px auto;
+    padding: 10px 20px 50px 20px;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px 0px #000000;
+}
+.kotaktengah{
+    float: center;
+    width: 95%;
+    background-color: aqua; color: black;
+    margin: 0px auto;
+    padding: 20px 25px 25px 20px;
+    border-radius: 10px;
+}
+
+.head{
+	background: aqua;
+    margin: 0px auto;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+.home{
+	background-color: #f44336;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.atas {
+ background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+} 
+.nama{
+background-color: #3CBC8D;
+
+    color: white;
+}
+.lok{font-weight:755px;
+ font-size:35px;
+ color:#fff;
+ text-shadow:
+   0 0 3px #DC143C  ,
+   0 0 5px #FFFF4D,
+   0 0 9px #FFFF41,
+   0 0 20px #FFFF2A,
+   0 0 25px #FFFF2B,
+   0 0 30px #FEFE00,
+   0 0 40px #DC143C ;
+}
+
+.per {
+    width:1500px;
+                height:500px;
+                background:white;
+                border:solid 3px black;
+}
